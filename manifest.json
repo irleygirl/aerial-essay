@@ -1,0 +1,1448 @@
+{
+  "version": 2,
+  "reading_direction": "rtl",
+  "haze_pad": 0.24,
+  "photos": [
+    {
+      "id": "IMG_1189",
+      "src": "photos/IMG_1189.webp",
+      "thumb": "thumbs/IMG_1189.webp",
+      "haze_mask": "haze/IMG_1189.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 0.0,
+      "seconds_since_previous": 0.0,
+      "lens_35mm_equiv": 24,
+      "shake": 0.015,
+      "skip": false,
+      "effects": [],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1190",
+      "src": "photos/IMG_1190.webp",
+      "thumb": "thumbs/IMG_1190.webp",
+      "haze_mask": "haze/IMG_1190.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 2.8,
+      "seconds_since_previous": 2.8,
+      "lens_35mm_equiv": 24,
+      "shake": 0.023,
+      "skip": false,
+      "effects": [],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1191",
+      "src": "photos/IMG_1191.webp",
+      "thumb": "thumbs/IMG_1191.webp",
+      "haze_mask": "haze/IMG_1191.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 9.1,
+      "seconds_since_previous": 6.3,
+      "lens_35mm_equiv": 24,
+      "shake": 0.022,
+      "skip": false,
+      "effects": [],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1192",
+      "src": "photos/IMG_1192.webp",
+      "thumb": "thumbs/IMG_1192.webp",
+      "haze_mask": "haze/IMG_1192.webp",
+      "width": 1800,
+      "height": 1350,
+      "seconds_from_start": 22.5,
+      "seconds_since_previous": 13.5,
+      "lens_35mm_equiv": 24,
+      "shake": 0.021,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.71,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1193",
+      "src": "photos/IMG_1193.webp",
+      "thumb": "thumbs/IMG_1193.webp",
+      "haze_mask": "haze/IMG_1193.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 189.1,
+      "seconds_since_previous": 166.6,
+      "lens_35mm_equiv": 24,
+      "shake": 0.035,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.52,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1194",
+      "src": "photos/IMG_1194.webp",
+      "thumb": "thumbs/IMG_1194.webp",
+      "haze_mask": "haze/IMG_1194.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 217.8,
+      "seconds_since_previous": 28.7,
+      "lens_35mm_equiv": 24,
+      "shake": 0.049,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.45,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1195",
+      "src": "photos/IMG_1195.webp",
+      "thumb": "thumbs/IMG_1195.webp",
+      "haze_mask": "haze/IMG_1195.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 360.6,
+      "seconds_since_previous": 142.8,
+      "lens_35mm_equiv": 24,
+      "shake": 0.062,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.83,
+          "source": "auto"
+        },
+        {
+          "type": "glare",
+          "x": 0.075,
+          "y": 0.0,
+          "strength": 0.9,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1196",
+      "src": "photos/IMG_1196.webp",
+      "thumb": "thumbs/IMG_1196.webp",
+      "haze_mask": "haze/IMG_1196.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 367.6,
+      "seconds_since_previous": 7.0,
+      "lens_35mm_equiv": 24,
+      "shake": 0.103,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.63,
+          "source": "auto"
+        },
+        {
+          "type": "glare",
+          "x": 0.203,
+          "y": 0.0,
+          "strength": 0.66,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1197",
+      "src": "photos/IMG_1197.webp",
+      "thumb": "thumbs/IMG_1197.webp",
+      "haze_mask": "haze/IMG_1197.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 623.3,
+      "seconds_since_previous": 255.6,
+      "lens_35mm_equiv": 24,
+      "shake": 0.031,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.61,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1198",
+      "src": "photos/IMG_1198.webp",
+      "thumb": "thumbs/IMG_1198.webp",
+      "haze_mask": "haze/IMG_1198.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 626.2,
+      "seconds_since_previous": 2.9,
+      "lens_35mm_equiv": 24,
+      "shake": 0.032,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.6,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1199",
+      "src": "photos/IMG_1199.webp",
+      "thumb": "thumbs/IMG_1199.webp",
+      "haze_mask": "haze/IMG_1199.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 742.3,
+      "seconds_since_previous": 116.1,
+      "lens_35mm_equiv": 14,
+      "shake": 0.096,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.63,
+          "source": "auto"
+        },
+        {
+          "type": "glare",
+          "x": 0.297,
+          "y": 0.163,
+          "strength": 0.73,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1200",
+      "src": "photos/IMG_1200.webp",
+      "thumb": "thumbs/IMG_1200.webp",
+      "haze_mask": "haze/IMG_1200.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 753.6,
+      "seconds_since_previous": 11.3,
+      "lens_35mm_equiv": 14,
+      "shake": 0.149,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.59,
+          "source": "auto"
+        },
+        {
+          "type": "glare",
+          "x": 0.342,
+          "y": 0.175,
+          "strength": 0.65,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1201",
+      "src": "photos/IMG_1201.webp",
+      "thumb": "thumbs/IMG_1201.webp",
+      "haze_mask": "haze/IMG_1201.webp",
+      "width": 1800,
+      "height": 1350,
+      "seconds_from_start": 775.2,
+      "seconds_since_previous": 21.7,
+      "lens_35mm_equiv": 14,
+      "shake": 0.121,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.5,
+          "source": "auto"
+        },
+        {
+          "type": "glare",
+          "x": 0.263,
+          "y": 0.0,
+          "strength": 0.9,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1202",
+      "src": "photos/IMG_1202.webp",
+      "thumb": "thumbs/IMG_1202.webp",
+      "haze_mask": "haze/IMG_1202.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 817.1,
+      "seconds_since_previous": 41.9,
+      "lens_35mm_equiv": 24,
+      "shake": 0.012,
+      "skip": false,
+      "effects": [],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1203",
+      "src": "photos/IMG_1203.webp",
+      "thumb": "thumbs/IMG_1203.webp",
+      "haze_mask": "haze/IMG_1203.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 821.8,
+      "seconds_since_previous": 4.6,
+      "lens_35mm_equiv": 24,
+      "shake": 0.04,
+      "skip": false,
+      "effects": [],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1204",
+      "src": "photos/IMG_1204.webp",
+      "thumb": "thumbs/IMG_1204.webp",
+      "haze_mask": "haze/IMG_1204.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 839.9,
+      "seconds_since_previous": 18.1,
+      "lens_35mm_equiv": 24,
+      "shake": 0.039,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.46,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1205",
+      "src": "photos/IMG_1205.webp",
+      "thumb": "thumbs/IMG_1205.webp",
+      "haze_mask": "haze/IMG_1205.webp",
+      "width": 1800,
+      "height": 1350,
+      "seconds_from_start": 864.9,
+      "seconds_since_previous": 25.1,
+      "lens_35mm_equiv": 24,
+      "shake": 0.012,
+      "skip": false,
+      "effects": [],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1206",
+      "src": "photos/IMG_1206.webp",
+      "thumb": "thumbs/IMG_1206.webp",
+      "haze_mask": "haze/IMG_1206.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 910.9,
+      "seconds_since_previous": 46.0,
+      "lens_35mm_equiv": 24,
+      "shake": 0.023,
+      "skip": false,
+      "effects": [],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1207",
+      "src": "photos/IMG_1207.webp",
+      "thumb": "thumbs/IMG_1207.webp",
+      "haze_mask": "haze/IMG_1207.webp",
+      "width": 1800,
+      "height": 1350,
+      "seconds_from_start": 925.0,
+      "seconds_since_previous": 14.1,
+      "lens_35mm_equiv": 24,
+      "shake": 0.027,
+      "skip": false,
+      "effects": [],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1208",
+      "src": "photos/IMG_1208.webp",
+      "thumb": "thumbs/IMG_1208.webp",
+      "haze_mask": "haze/IMG_1208.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 999.1,
+      "seconds_since_previous": 74.1,
+      "lens_35mm_equiv": 24,
+      "shake": 0.01,
+      "skip": false,
+      "effects": [],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1209",
+      "src": "photos/IMG_1209.webp",
+      "thumb": "thumbs/IMG_1209.webp",
+      "haze_mask": "haze/IMG_1209.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 1003.4,
+      "seconds_since_previous": 4.4,
+      "lens_35mm_equiv": 14,
+      "shake": 0.063,
+      "skip": false,
+      "effects": [
+        {
+          "type": "glare",
+          "x": 0.47,
+          "y": 0.087,
+          "strength": 0.9,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1210",
+      "src": "photos/IMG_1210.webp",
+      "thumb": "thumbs/IMG_1210.webp",
+      "haze_mask": "haze/IMG_1210.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 1058.5,
+      "seconds_since_previous": 55.1,
+      "lens_35mm_equiv": 24,
+      "shake": 0.031,
+      "skip": false,
+      "effects": [],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1211",
+      "src": "photos/IMG_1211.webp",
+      "thumb": "thumbs/IMG_1211.webp",
+      "haze_mask": "haze/IMG_1211.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 1114.2,
+      "seconds_since_previous": 55.6,
+      "lens_35mm_equiv": 14,
+      "shake": 0.04,
+      "skip": false,
+      "effects": [
+        {
+          "type": "glare",
+          "x": 0.257,
+          "y": 0.0,
+          "strength": 0.49,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1212",
+      "src": "photos/IMG_1212.webp",
+      "thumb": "thumbs/IMG_1212.webp",
+      "haze_mask": "haze/IMG_1212.webp",
+      "width": 1800,
+      "height": 1350,
+      "seconds_from_start": 1125.4,
+      "seconds_since_previous": 11.3,
+      "lens_35mm_equiv": 14,
+      "shake": 0.09,
+      "skip": false,
+      "effects": [],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1213",
+      "src": "photos/IMG_1213.webp",
+      "thumb": "thumbs/IMG_1213.webp",
+      "haze_mask": "haze/IMG_1213.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 1151.7,
+      "seconds_since_previous": 26.2,
+      "lens_35mm_equiv": 48,
+      "shake": 1.942,
+      "skip": false,
+      "effects": [
+        {
+          "type": "shake",
+          "strength": 1.0,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1214",
+      "src": "photos/IMG_1214.webp",
+      "thumb": "thumbs/IMG_1214.webp",
+      "haze_mask": "haze/IMG_1214.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 1169.1,
+      "seconds_since_previous": 17.4,
+      "lens_35mm_equiv": 100,
+      "shake": 0.041,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.77,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1215",
+      "src": "photos/IMG_1215.webp",
+      "thumb": "thumbs/IMG_1215.webp",
+      "haze_mask": "haze/IMG_1215.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 1174.0,
+      "seconds_since_previous": 4.9,
+      "lens_35mm_equiv": 100,
+      "shake": 0.016,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.9,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1216",
+      "src": "photos/IMG_1216.webp",
+      "thumb": "thumbs/IMG_1216.webp",
+      "haze_mask": "haze/IMG_1216.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 1180.0,
+      "seconds_since_previous": 6.0,
+      "lens_35mm_equiv": 48,
+      "shake": 0.038,
+      "skip": false,
+      "effects": [],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1217",
+      "src": "photos/IMG_1217.webp",
+      "thumb": "thumbs/IMG_1217.webp",
+      "haze_mask": "haze/IMG_1217.webp",
+      "width": 1800,
+      "height": 1350,
+      "seconds_from_start": 1201.9,
+      "seconds_since_previous": 21.9,
+      "lens_35mm_equiv": 24,
+      "shake": 0.015,
+      "skip": false,
+      "effects": [],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1218",
+      "src": "photos/IMG_1218.webp",
+      "thumb": "thumbs/IMG_1218.webp",
+      "haze_mask": "haze/IMG_1218.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 1542.2,
+      "seconds_since_previous": 340.3,
+      "lens_35mm_equiv": 48,
+      "shake": 0.019,
+      "skip": false,
+      "effects": [],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1219",
+      "src": "photos/IMG_1219.webp",
+      "thumb": "thumbs/IMG_1219.webp",
+      "haze_mask": "haze/IMG_1219.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 1558.4,
+      "seconds_since_previous": 16.2,
+      "lens_35mm_equiv": 48,
+      "shake": 0.038,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.51,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1220",
+      "src": "photos/IMG_1220.webp",
+      "thumb": "thumbs/IMG_1220.webp",
+      "haze_mask": "haze/IMG_1220.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 1562.4,
+      "seconds_since_previous": 4.0,
+      "lens_35mm_equiv": 48,
+      "shake": 0.115,
+      "skip": false,
+      "effects": [],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1221",
+      "src": "photos/IMG_1221.webp",
+      "thumb": "thumbs/IMG_1221.webp",
+      "haze_mask": "haze/IMG_1221.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 1579.0,
+      "seconds_since_previous": 16.7,
+      "lens_35mm_equiv": 48,
+      "shake": 0.055,
+      "skip": false,
+      "effects": [],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1222",
+      "src": "photos/IMG_1222.webp",
+      "thumb": "thumbs/IMG_1222.webp",
+      "haze_mask": "haze/IMG_1222.webp",
+      "width": 1800,
+      "height": 1350,
+      "seconds_from_start": 1678.0,
+      "seconds_since_previous": 99.0,
+      "lens_35mm_equiv": 24,
+      "shake": 0.027,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.66,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1223",
+      "src": "photos/IMG_1223.webp",
+      "thumb": "thumbs/IMG_1223.webp",
+      "haze_mask": "haze/IMG_1223.webp",
+      "width": 1800,
+      "height": 1350,
+      "seconds_from_start": 1685.4,
+      "seconds_since_previous": 7.4,
+      "lens_35mm_equiv": 24,
+      "shake": 0.017,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.54,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1224",
+      "src": "photos/IMG_1224.webp",
+      "thumb": "thumbs/IMG_1224.webp",
+      "haze_mask": "haze/IMG_1224.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 1802.9,
+      "seconds_since_previous": 117.5,
+      "lens_35mm_equiv": 24,
+      "shake": 0.008,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.93,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1225",
+      "src": "photos/IMG_1225.webp",
+      "thumb": "thumbs/IMG_1225.webp",
+      "haze_mask": "haze/IMG_1225.webp",
+      "width": 1800,
+      "height": 1350,
+      "seconds_from_start": 1949.0,
+      "seconds_since_previous": 146.1,
+      "lens_35mm_equiv": 24,
+      "shake": 0.008,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.8,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1226",
+      "src": "photos/IMG_1226.webp",
+      "thumb": "thumbs/IMG_1226.webp",
+      "haze_mask": "haze/IMG_1226.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 1957.0,
+      "seconds_since_previous": 8.0,
+      "lens_35mm_equiv": 24,
+      "shake": 0.022,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.86,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1227",
+      "src": "photos/IMG_1227.webp",
+      "thumb": "thumbs/IMG_1227.webp",
+      "haze_mask": "haze/IMG_1227.webp",
+      "width": 1800,
+      "height": 1350,
+      "seconds_from_start": 2114.0,
+      "seconds_since_previous": 157.0,
+      "lens_35mm_equiv": 24,
+      "shake": 0.012,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.89,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1228",
+      "src": "photos/IMG_1228.webp",
+      "thumb": "thumbs/IMG_1228.webp",
+      "haze_mask": "haze/IMG_1228.webp",
+      "width": 1800,
+      "height": 1350,
+      "seconds_from_start": 2119.9,
+      "seconds_since_previous": 5.9,
+      "lens_35mm_equiv": 24,
+      "shake": 0.022,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.87,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1229",
+      "src": "photos/IMG_1229.webp",
+      "thumb": "thumbs/IMG_1229.webp",
+      "haze_mask": "haze/IMG_1229.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 2257.8,
+      "seconds_since_previous": 137.9,
+      "lens_35mm_equiv": 24,
+      "shake": 0.033,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.53,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1230",
+      "src": "photos/IMG_1230.webp",
+      "thumb": "thumbs/IMG_1230.webp",
+      "haze_mask": "haze/IMG_1230.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 2269.2,
+      "seconds_since_previous": 11.4,
+      "lens_35mm_equiv": 48,
+      "shake": 0.039,
+      "skip": false,
+      "effects": [],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1231",
+      "src": "photos/IMG_1231.webp",
+      "thumb": "thumbs/IMG_1231.webp",
+      "haze_mask": "haze/IMG_1231.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 2448.9,
+      "seconds_since_previous": 179.7,
+      "lens_35mm_equiv": 48,
+      "shake": 0.056,
+      "skip": false,
+      "effects": [],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1232",
+      "src": "photos/IMG_1232.webp",
+      "thumb": "thumbs/IMG_1232.webp",
+      "haze_mask": "haze/IMG_1232.webp",
+      "width": 1800,
+      "height": 1350,
+      "seconds_from_start": 2458.6,
+      "seconds_since_previous": 9.6,
+      "lens_35mm_equiv": 48,
+      "shake": 0.068,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.53,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1233",
+      "src": "photos/IMG_1233.webp",
+      "thumb": "thumbs/IMG_1233.webp",
+      "haze_mask": "haze/IMG_1233.webp",
+      "width": 1800,
+      "height": 1350,
+      "seconds_from_start": 2462.0,
+      "seconds_since_previous": 3.4,
+      "lens_35mm_equiv": 48,
+      "shake": 0.166,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.77,
+          "source": "auto"
+        },
+        {
+          "type": "shake",
+          "strength": 0.33,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1234",
+      "src": "photos/IMG_1234.webp",
+      "thumb": "thumbs/IMG_1234.webp",
+      "haze_mask": "haze/IMG_1234.webp",
+      "width": 1800,
+      "height": 1350,
+      "seconds_from_start": 2518.6,
+      "seconds_since_previous": 56.7,
+      "lens_35mm_equiv": 24,
+      "shake": 0.029,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 1.0,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1235",
+      "src": "photos/IMG_1235.webp",
+      "thumb": "thumbs/IMG_1235.webp",
+      "haze_mask": "haze/IMG_1235.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 2589.1,
+      "seconds_since_previous": 70.5,
+      "lens_35mm_equiv": 24,
+      "shake": 0.015,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.82,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1236",
+      "src": "photos/IMG_1236.webp",
+      "thumb": "thumbs/IMG_1236.webp",
+      "haze_mask": "haze/IMG_1236.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 2603.4,
+      "seconds_since_previous": 14.3,
+      "lens_35mm_equiv": 24,
+      "shake": 0.009,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.69,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1237",
+      "src": "photos/IMG_1237.webp",
+      "thumb": "thumbs/IMG_1237.webp",
+      "haze_mask": "haze/IMG_1237.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 2643.3,
+      "seconds_since_previous": 39.9,
+      "lens_35mm_equiv": 48,
+      "shake": 0.017,
+      "skip": false,
+      "effects": [],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1238",
+      "src": "photos/IMG_1238.webp",
+      "thumb": "thumbs/IMG_1238.webp",
+      "haze_mask": "haze/IMG_1238.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 2645.1,
+      "seconds_since_previous": 1.7,
+      "lens_35mm_equiv": 48,
+      "shake": 0.056,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.4,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1239",
+      "src": "photos/IMG_1239.webp",
+      "thumb": "thumbs/IMG_1239.webp",
+      "haze_mask": "haze/IMG_1239.webp",
+      "width": 1800,
+      "height": 1350,
+      "seconds_from_start": 2672.5,
+      "seconds_since_previous": 27.4,
+      "lens_35mm_equiv": 24,
+      "shake": 0.036,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.82,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1240",
+      "src": "photos/IMG_1240.webp",
+      "thumb": "thumbs/IMG_1240.webp",
+      "haze_mask": "haze/IMG_1240.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 2695.8,
+      "seconds_since_previous": 23.4,
+      "lens_35mm_equiv": 24,
+      "shake": 0.05,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.62,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1241",
+      "src": "photos/IMG_1241.webp",
+      "thumb": "thumbs/IMG_1241.webp",
+      "haze_mask": "haze/IMG_1241.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 2700.5,
+      "seconds_since_previous": 4.7,
+      "lens_35mm_equiv": 24,
+      "shake": 0.057,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.48,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1242",
+      "src": "photos/IMG_1242.webp",
+      "thumb": "thumbs/IMG_1242.webp",
+      "haze_mask": "haze/IMG_1242.webp",
+      "width": 1800,
+      "height": 1350,
+      "seconds_from_start": 2738.3,
+      "seconds_since_previous": 37.7,
+      "lens_35mm_equiv": 24,
+      "shake": 0.009,
+      "skip": false,
+      "effects": [],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1243",
+      "src": "photos/IMG_1243.webp",
+      "thumb": "thumbs/IMG_1243.webp",
+      "haze_mask": "haze/IMG_1243.webp",
+      "width": 1800,
+      "height": 1350,
+      "seconds_from_start": 2743.9,
+      "seconds_since_previous": 5.7,
+      "lens_35mm_equiv": 24,
+      "shake": 0.009,
+      "skip": false,
+      "effects": [],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1244",
+      "src": "photos/IMG_1244.webp",
+      "thumb": "thumbs/IMG_1244.webp",
+      "haze_mask": "haze/IMG_1244.webp",
+      "width": 1800,
+      "height": 1350,
+      "seconds_from_start": 2750.7,
+      "seconds_since_previous": 6.8,
+      "lens_35mm_equiv": 24,
+      "shake": 0.166,
+      "skip": false,
+      "effects": [
+        {
+          "type": "shake",
+          "strength": 0.33,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1245",
+      "src": "photos/IMG_1245.webp",
+      "thumb": "thumbs/IMG_1245.webp",
+      "haze_mask": "haze/IMG_1245.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 2793.4,
+      "seconds_since_previous": 42.7,
+      "lens_35mm_equiv": 24,
+      "shake": 0.054,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.48,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1246",
+      "src": "photos/IMG_1246.webp",
+      "thumb": "thumbs/IMG_1246.webp",
+      "haze_mask": "haze/IMG_1246.webp",
+      "width": 1350,
+      "height": 1800,
+      "seconds_from_start": 2821.3,
+      "seconds_since_previous": 27.9,
+      "lens_35mm_equiv": 24,
+      "shake": 0.069,
+      "skip": false,
+      "effects": [],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1247",
+      "src": "photos/IMG_1247.webp",
+      "thumb": "thumbs/IMG_1247.webp",
+      "haze_mask": "haze/IMG_1247.webp",
+      "width": 1800,
+      "height": 1350,
+      "seconds_from_start": 2910.2,
+      "seconds_since_previous": 88.9,
+      "lens_35mm_equiv": 48,
+      "shake": 0.045,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.49,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1248",
+      "src": "photos/IMG_1248.webp",
+      "thumb": "thumbs/IMG_1248.webp",
+      "haze_mask": "haze/IMG_1248.webp",
+      "width": 1800,
+      "height": 1350,
+      "seconds_from_start": 2912.1,
+      "seconds_since_previous": 1.8,
+      "lens_35mm_equiv": 48,
+      "shake": 0.216,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.6,
+          "source": "auto"
+        },
+        {
+          "type": "shake",
+          "strength": 0.45,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1249",
+      "src": "photos/IMG_1249.webp",
+      "thumb": "thumbs/IMG_1249.webp",
+      "haze_mask": "haze/IMG_1249.webp",
+      "width": 1800,
+      "height": 1350,
+      "seconds_from_start": 2923.3,
+      "seconds_since_previous": 11.2,
+      "lens_35mm_equiv": 48,
+      "shake": 0.011,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.5,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    },
+    {
+      "id": "IMG_1250",
+      "src": "photos/IMG_1250.webp",
+      "thumb": "thumbs/IMG_1250.webp",
+      "haze_mask": "haze/IMG_1250.webp",
+      "width": 1800,
+      "height": 1350,
+      "seconds_from_start": 2931.3,
+      "seconds_since_previous": 8.1,
+      "lens_35mm_equiv": 48,
+      "shake": 0.012,
+      "skip": false,
+      "effects": [
+        {
+          "type": "haze",
+          "strength": 0.6,
+          "source": "auto"
+        }
+      ],
+      "text_spot": false
+    }
+  ],
+  "overlaps": [
+    {
+      "from": "IMG_1189",
+      "to": "IMG_1190",
+      "inliers": 156,
+      "scale": 0.947,
+      "rotation_deg": -7.62,
+      "dx": 14.4,
+      "dy": 107.9,
+      "confirmed": null
+    },
+    {
+      "from": "IMG_1189",
+      "to": "IMG_1191",
+      "inliers": 41,
+      "scale": 1.018,
+      "rotation_deg": -13.42,
+      "dx": -175.8,
+      "dy": 144.9,
+      "confirmed": null
+    },
+    {
+      "from": "IMG_1190",
+      "to": "IMG_1191",
+      "inliers": 100,
+      "scale": 1.016,
+      "rotation_deg": -10.55,
+      "dx": -205.5,
+      "dy": 120.0,
+      "confirmed": null
+    },
+    {
+      "from": "IMG_1197",
+      "to": "IMG_1198",
+      "inliers": 32,
+      "scale": 1.031,
+      "rotation_deg": -3.02,
+      "dx": -14.7,
+      "dy": 17.9,
+      "confirmed": null
+    },
+    {
+      "from": "IMG_1202",
+      "to": "IMG_1203",
+      "inliers": 134,
+      "scale": 1.059,
+      "rotation_deg": 0.48,
+      "dx": 26.6,
+      "dy": 33.3,
+      "confirmed": null
+    },
+    {
+      "from": "IMG_1206",
+      "to": "IMG_1207",
+      "inliers": 54,
+      "scale": 1.223,
+      "rotation_deg": -5.29,
+      "dx": -8.2,
+      "dy": -197.0,
+      "confirmed": null
+    },
+    {
+      "from": "IMG_1208",
+      "to": "IMG_1209",
+      "inliers": 287,
+      "scale": 0.601,
+      "rotation_deg": -1.79,
+      "dx": 168.7,
+      "dy": 217.2,
+      "confirmed": null
+    },
+    {
+      "from": "IMG_1211",
+      "to": "IMG_1212",
+      "inliers": 69,
+      "scale": 1.008,
+      "rotation_deg": -3.16,
+      "dx": 126.6,
+      "dy": -42.9,
+      "confirmed": null
+    },
+    {
+      "from": "IMG_1214",
+      "to": "IMG_1215",
+      "inliers": 191,
+      "scale": 1.021,
+      "rotation_deg": -7.18,
+      "dx": -5.0,
+      "dy": -286.6,
+      "confirmed": null
+    },
+    {
+      "from": "IMG_1214",
+      "to": "IMG_1216",
+      "inliers": 33,
+      "scale": 0.556,
+      "rotation_deg": -11.25,
+      "dx": 105.7,
+      "dy": 256.1,
+      "confirmed": null
+    },
+    {
+      "from": "IMG_1215",
+      "to": "IMG_1216",
+      "inliers": 79,
+      "scale": 0.504,
+      "rotation_deg": -3.83,
+      "dx": 146.6,
+      "dy": 426.0,
+      "confirmed": null
+    },
+    {
+      "from": "IMG_1218",
+      "to": "IMG_1219",
+      "inliers": 68,
+      "scale": 0.876,
+      "rotation_deg": -17.91,
+      "dx": -1.0,
+      "dy": -160.0,
+      "confirmed": null
+    },
+    {
+      "from": "IMG_1219",
+      "to": "IMG_1220",
+      "inliers": 209,
+      "scale": 1.011,
+      "rotation_deg": 23.12,
+      "dx": 831.2,
+      "dy": -90.8,
+      "confirmed": null
+    },
+    {
+      "from": "IMG_1222",
+      "to": "IMG_1223",
+      "inliers": 125,
+      "scale": 1.001,
+      "rotation_deg": -3.26,
+      "dx": -54.4,
+      "dy": -6.3,
+      "confirmed": null
+    },
+    {
+      "from": "IMG_1225",
+      "to": "IMG_1226",
+      "inliers": 50,
+      "scale": 0.967,
+      "rotation_deg": 15.95,
+      "dx": 391.2,
+      "dy": 141.0,
+      "confirmed": null
+    },
+    {
+      "from": "IMG_1227",
+      "to": "IMG_1228",
+      "inliers": 162,
+      "scale": 1.054,
+      "rotation_deg": 2.7,
+      "dx": 76.9,
+      "dy": 114.7,
+      "confirmed": null
+    },
+    {
+      "from": "IMG_1231",
+      "to": "IMG_1232",
+      "inliers": 30,
+      "scale": 0.934,
+      "rotation_deg": -2.55,
+      "dx": 171.0,
+      "dy": -1.8,
+      "confirmed": null
+    },
+    {
+      "from": "IMG_1232",
+      "to": "IMG_1233",
+      "inliers": 105,
+      "scale": 0.969,
+      "rotation_deg": -9.28,
+      "dx": 0.5,
+      "dy": 74.8,
+      "confirmed": null
+    },
+    {
+      "from": "IMG_1237",
+      "to": "IMG_1238",
+      "inliers": 615,
+      "scale": 0.987,
+      "rotation_deg": -4.72,
+      "dx": -142.9,
+      "dy": 80.0,
+      "confirmed": null
+    },
+    {
+      "from": "IMG_1240",
+      "to": "IMG_1241",
+      "inliers": 33,
+      "scale": 1.209,
+      "rotation_deg": -9.2,
+      "dx": -272.3,
+      "dy": 44.9,
+      "confirmed": null
+    },
+    {
+      "from": "IMG_1242",
+      "to": "IMG_1243",
+      "inliers": 27,
+      "scale": 1.058,
+      "rotation_deg": -1.08,
+      "dx": 75.0,
+      "dy": 9.5,
+      "confirmed": null
+    },
+    {
+      "from": "IMG_1247",
+      "to": "IMG_1248",
+      "inliers": 170,
+      "scale": 0.888,
+      "rotation_deg": -5.07,
+      "dx": -28.5,
+      "dy": 129.7,
+      "confirmed": null
+    }
+  ]
+}
